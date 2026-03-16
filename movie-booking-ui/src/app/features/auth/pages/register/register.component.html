@@ -1,0 +1,77 @@
+<div class="row justify-content-center">
+  <div class="col-md-6 col-lg-5">
+    <div class="card shadow p-4">
+      <h3 class="text-center fw-bold mb-3">Register</h3>
+
+      <div *ngIf="error" class="alert alert-danger">{{ error }}</div>
+      <div *ngIf="success" class="alert alert-success">{{ success }}</div>
+
+      <form [formGroup]="registerForm" (ngSubmit)="submit()">
+
+        <div class="mb-3">
+          <label>First Name</label>
+          <input class="form-control" formControlName="firstName" />
+          <small class="text-danger"
+            *ngIf="f['firstName'].touched && f['firstName'].invalid">
+            First name is required
+          </small>
+        </div>
+
+        <div class="mb-3">
+          <label>Last Name</label>
+          <input class="form-control" formControlName="lastName" />
+          <small class="text-danger"
+            *ngIf="f['lastName'].touched && f['lastName'].invalid">
+            Last name is required
+          </small>
+        </div>
+
+        <div class="mb-3">
+          <label>Email</label>
+          <input class="form-control" formControlName="email" />
+          <small class="text-danger"
+            *ngIf="f['email'].touched && f['email'].invalid">
+            Enter a valid email
+          </small>
+        </div>
+
+        <div class="mb-3">
+          <label>Login Id</label>
+          <input class="form-control" formControlName="username" />
+          <small class="text-danger"
+            *ngIf="f['username'].touched && f['username'].invalid">
+            Login Id is required
+          </small>
+        </div>
+
+        <div class="mb-3">
+          <label>Password</label>
+          <input type="password" class="form-control" formControlName="password" />
+        </div>
+
+        <div class="mb-3">
+          <label>Confirm Password</label>
+          <input type="password" class="form-control" formControlName="confirmPassword" />
+          <small class="text-danger"
+            *ngIf="registerForm.errors?.['mismatch']">
+            Passwords do not match
+          </small>
+        </div>
+
+        <div class="mb-3">
+          <label>Contact Number</label>
+          <input class="form-control" formControlName="contactNumber" />
+          <small class="text-danger"
+            *ngIf="f['contactNumber'].touched && f['contactNumber'].invalid">
+            Enter 10 digit contact number
+          </small>
+        </div>
+
+        <button class="btn btn-primary w-100" type="submit" [disabled]="loading">
+          {{ loading ? 'Registering...' : 'Register' }}
+        </button>
+
+      </form>
+    </div>
+  </div>
+</div>

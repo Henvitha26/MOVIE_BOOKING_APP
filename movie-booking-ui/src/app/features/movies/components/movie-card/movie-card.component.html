@@ -1,0 +1,27 @@
+<div class="card shadow p-3 text-center h-100">
+
+  <h5 class="fw-bold">{{ movie.movieName }}</h5>
+  <p class="text-muted">{{ movie.theatreName }}</p>
+
+  <p>🎟 Available: {{ movie.availableTickets }}</p>
+
+  <p>
+    Status:
+    <span
+      [ngClass]="{
+        'text-success': !soldOut,
+        'text-danger': soldOut
+      }">
+      {{ soldOut ? 'SOLD OUT' : 'Available' }}
+    </span>
+  </p>
+
+  <button
+    class="btn btn-info w-100"
+    [disabled]="soldOut"
+    (click)="bookNow()"
+  >
+    {{ soldOut ? 'Sold Out' : 'Book Now' }}
+  </button>
+
+</div>

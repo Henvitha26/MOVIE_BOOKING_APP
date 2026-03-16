@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D15EE70F-869A-4F54-043A-B6A66C7FC1BC}|MovieBookingApi\\MovieBookingApi.csproj|c:\\users\\harshitha\\source\\repos\\moviebookingapi\\moviebookingapi\\moviebookingapi\\controllers\\moviebookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15EE70F-869A-4F54-043A-B6A66C7FC1BC}|MovieBookingApi\\MovieBookingApi.csproj|solutionrelative:moviebookingapi\\controllers\\moviebookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15EE70F-869A-4F54-043A-B6A66C7FC1BC}|MovieBookingApi\\MovieBookingApi.csproj|c:\\users\\harshitha\\source\\repos\\moviebookingapi\\moviebookingapi\\moviebookingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15EE70F-869A-4F54-043A-B6A66C7FC1BC}|MovieBookingApi\\MovieBookingApi.csproj|solutionrelative:moviebookingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15EE70F-869A-4F54-043A-B6A66C7FC1BC}|MovieBookingApi\\MovieBookingApi.csproj|c:\\users\\harshitha\\source\\repos\\moviebookingapi\\moviebookingapi\\moviebookingapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D15EE70F-869A-4F54-043A-B6A66C7FC1BC}|MovieBookingApi\\MovieBookingApi.csproj|solutionrelative:moviebookingapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15EE70F-869A-4F54-043A-B6A66C7FC1BC}|MovieBookingApi\\MovieBookingApi.csproj|c:\\users\\harshitha\\source\\repos\\moviebookingapi\\moviebookingapi\\moviebookingapi\\data\\moviebookingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15EE70F-869A-4F54-043A-B6A66C7FC1BC}|MovieBookingApi\\MovieBookingApi.csproj|solutionrelative:moviebookingapi\\data\\moviebookingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB743E4-BDE2-45A2-9A28-BB9933BCBEFE}|MovieBookingApi.Tests\\MovieBookingApi.Tests.csproj|c:\\users\\harshitha\\source\\repos\\moviebookingapi\\moviebookingapi\\moviebookingapi.tests\\moviebookingapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5FB743E4-BDE2-45A2-9A28-BB9933BCBEFE}|MovieBookingApi.Tests\\MovieBookingApi.Tests.csproj|solutionrelative:moviebookingapi.tests\\moviebookingapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB743E4-BDE2-45A2-9A28-BB9933BCBEFE}|MovieBookingApi.Tests\\MovieBookingApi.Tests.csproj|c:\\users\\harshitha\\source\\repos\\moviebookingapi\\moviebookingapi\\moviebookingapi.tests\\controllers\\moviebookingcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB743E4-BDE2-45A2-9A28-BB9933BCBEFE}|MovieBookingApi.Tests\\MovieBookingApi.Tests.csproj|solutionrelative:moviebookingapi.tests\\controllers\\moviebookingcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB743E4-BDE2-45A2-9A28-BB9933BCBEFE}|MovieBookingApi.Tests\\MovieBookingApi.Tests.csproj|c:\\users\\harshitha\\source\\repos\\moviebookingapi\\moviebookingapi\\moviebookingapi.tests\\helpers\\dbcontexthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB743E4-BDE2-45A2-9A28-BB9933BCBEFE}|MovieBookingApi.Tests\\MovieBookingApi.Tests.csproj|solutionrelative:moviebookingapi.tests\\helpers\\dbcontexthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB743E4-BDE2-45A2-9A28-BB9933BCBEFE}|MovieBookingApi.Tests\\MovieBookingApi.Tests.csproj|c:\\users\\harshitha\\source\\repos\\moviebookingapi\\moviebookingapi\\moviebookingapi.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB743E4-BDE2-45A2-9A28-BB9933BCBEFE}|MovieBookingApi.Tests\\MovieBookingApi.Tests.csproj|solutionrelative:moviebookingapi.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15EE70F-869A-4F54-043A-B6A66C7FC1BC}|MovieBookingApi\\MovieBookingApi.csproj|c:\\users\\harshitha\\source\\repos\\moviebookingapi\\moviebookingapi\\moviebookingapi\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15EE70F-869A-4F54-043A-B6A66C7FC1BC}|MovieBookingApi\\MovieBookingApi.csproj|solutionrelative:moviebookingapi\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15EE70F-869A-4F54-043A-B6A66C7FC1BC}|MovieBookingApi\\MovieBookingApi.csproj|c:\\users\\harshitha\\source\\repos\\moviebookingapi\\moviebookingapi\\moviebookingapi\\services\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15EE70F-869A-4F54-043A-B6A66C7FC1BC}|MovieBookingApi\\MovieBookingApi.csproj|solutionrelative:moviebookingapi\\services\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15EE70F-869A-4F54-043A-B6A66C7FC1BC}|MovieBookingApi\\MovieBookingApi.csproj|c:\\users\\harshitha\\source\\repos\\moviebookingapi\\moviebookingapi\\moviebookingapi\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15EE70F-869A-4F54-043A-B6A66C7FC1BC}|MovieBookingApi\\MovieBookingApi.csproj|solutionrelative:moviebookingapi\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15EE70F-869A-4F54-043A-B6A66C7FC1BC}|MovieBookingApi\\MovieBookingApi.csproj|c:\\users\\harshitha\\source\\repos\\moviebookingapi\\moviebookingapi\\moviebookingapi\\moviebookingapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D15EE70F-869A-4F54-043A-B6A66C7FC1BC}|MovieBookingApi\\MovieBookingApi.csproj|solutionrelative:moviebookingapi\\moviebookingapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15EE70F-869A-4F54-043A-B6A66C7FC1BC}|MovieBookingApi\\MovieBookingApi.csproj|c:\\users\\harshitha\\source\\repos\\moviebookingapi\\moviebookingapi\\moviebookingapi\\dtos\\addmovierequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15EE70F-869A-4F54-043A-B6A66C7FC1BC}|MovieBookingApi\\MovieBookingApi.csproj|solutionrelative:moviebookingapi\\dtos\\addmovierequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15EE70F-869A-4F54-043A-B6A66C7FC1BC}|MovieBookingApi\\MovieBookingApi.csproj|c:\\users\\harshitha\\source\\repos\\moviebookingapi\\moviebookingapi\\moviebookingapi\\moviebookingapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D15EE70F-869A-4F54-043A-B6A66C7FC1BC}|MovieBookingApi\\MovieBookingApi.csproj|solutionrelative:moviebookingapi\\moviebookingapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15EE70F-869A-4F54-043A-B6A66C7FC1BC}|MovieBookingApi\\MovieBookingApi.csproj|c:\\users\\harshitha\\source\\repos\\moviebookingapi\\moviebookingapi\\moviebookingapi\\dtos\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15EE70F-869A-4F54-043A-B6A66C7FC1BC}|MovieBookingApi\\MovieBookingApi.csproj|solutionrelative:moviebookingapi\\dtos\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15EE70F-869A-4F54-043A-B6A66C7FC1BC}|MovieBookingApi\\MovieBookingApi.csproj|c:\\users\\harshitha\\source\\repos\\moviebookingapi\\moviebookingapi\\moviebookingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D15EE70F-869A-4F54-043A-B6A66C7FC1BC}|MovieBookingApi\\MovieBookingApi.csproj|solutionrelative:moviebookingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi\\Program.cs",
+              "RelativeDocumentMoniker": "MovieBookingApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi\\Program.cs",
+              "RelativeToolTip": "MovieBookingApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T07:09:38.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MovieBookingApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MovieBookingApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-23T10:04:51.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieBookingController.cs",
+              "DocumentMoniker": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi\\Controllers\\MovieBookingController.cs",
+              "RelativeDocumentMoniker": "MovieBookingApi\\Controllers\\MovieBookingController.cs",
+              "ToolTip": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi\\Controllers\\MovieBookingController.cs",
+              "RelativeToolTip": "MovieBookingApi\\Controllers\\MovieBookingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T06:59:44.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieBookingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi\\Data\\MovieBookingDbContext.cs",
+              "RelativeDocumentMoniker": "MovieBookingApi\\Data\\MovieBookingDbContext.cs",
+              "ToolTip": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi\\Data\\MovieBookingDbContext.cs",
+              "RelativeToolTip": "MovieBookingApi\\Data\\MovieBookingDbContext.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAowIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T06:40:27.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieBookingApi.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi.Tests\\MovieBookingApi.Tests.csproj",
+              "RelativeDocumentMoniker": "MovieBookingApi.Tests\\MovieBookingApi.Tests.csproj",
+              "ToolTip": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi.Tests\\MovieBookingApi.Tests.csproj",
+              "RelativeToolTip": "MovieBookingApi.Tests\\MovieBookingApi.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-23T14:00:23.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieBookingControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi.Tests\\Controllers\\MovieBookingControllerTests.cs",
+              "RelativeDocumentMoniker": "MovieBookingApi.Tests\\Controllers\\MovieBookingControllerTests.cs",
+              "ToolTip": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi.Tests\\Controllers\\MovieBookingControllerTests.cs",
+              "RelativeToolTip": "MovieBookingApi.Tests\\Controllers\\MovieBookingControllerTests.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAkwKwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T14:00:51.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbContextHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi.Tests\\Helpers\\DbContextHelper.cs",
+              "RelativeDocumentMoniker": "MovieBookingApi.Tests\\Helpers\\DbContextHelper.cs",
+              "ToolTip": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi.Tests\\Helpers\\DbContextHelper.cs",
+              "RelativeToolTip": "MovieBookingApi.Tests\\Helpers\\DbContextHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T13:59:54.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MovieBookingApi.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "MovieBookingApi.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T13:54:47.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "MovieBookingApi\\Services\\MovieService.cs",
+              "ToolTip": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi\\Services\\MovieService.cs",
+              "RelativeToolTip": "MovieBookingApi\\Services\\MovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T13:45:37.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi\\Services\\Interfaces\\IMovieService.cs",
+              "RelativeDocumentMoniker": "MovieBookingApi\\Services\\Interfaces\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi\\Services\\Interfaces\\IMovieService.cs",
+              "RelativeToolTip": "MovieBookingApi\\Services\\Interfaces\\IMovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T13:45:16.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "MovieBookingApi\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "MovieBookingApi\\Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T13:43:28.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovieBookingApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi.csproj",
+              "RelativeDocumentMoniker": "MovieBookingApi\\MovieBookingApi.csproj",
+              "ToolTip": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi.csproj",
+              "RelativeToolTip": "MovieBookingApi\\MovieBookingApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-23T06:43:16.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddMovieRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi\\DTOs\\AddMovieRequestDto.cs",
+              "RelativeDocumentMoniker": "MovieBookingApi\\DTOs\\AddMovieRequestDto.cs",
+              "ToolTip": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi\\DTOs\\AddMovieRequestDto.cs",
+              "RelativeToolTip": "MovieBookingApi\\DTOs\\AddMovieRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T12:02:44.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MovieBookingApi.http",
+              "DocumentMoniker": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi.http",
+              "RelativeDocumentMoniker": "MovieBookingApi\\MovieBookingApi.http",
+              "ToolTip": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi.http",
+              "RelativeToolTip": "MovieBookingApi\\MovieBookingApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-01-23T10:04:48.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi\\DTOs\\RegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "MovieBookingApi\\DTOs\\RegisterRequestDto.cs",
+              "ToolTip": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi\\DTOs\\RegisterRequestDto.cs",
+              "RelativeToolTip": "MovieBookingApi\\DTOs\\RegisterRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T06:58:27.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi\\appsettings.json",
+              "RelativeDocumentMoniker": "MovieBookingApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Harshitha\\source\\repos\\MovieBookingApi\\MovieBookingApi\\MovieBookingApi\\appsettings.json",
+              "RelativeToolTip": "MovieBookingApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-23T06:36:02.324Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

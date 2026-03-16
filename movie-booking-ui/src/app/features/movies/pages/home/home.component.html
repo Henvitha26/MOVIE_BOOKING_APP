@@ -1,0 +1,22 @@
+<div class="text-center mb-4">
+  <h2 class="fw-bold">🎬 Now Showing</h2>
+
+  <div class="input-group justify-content-center mt-3">
+    <input
+      class="form-control w-50"
+      placeholder="Search movies..."
+      [(ngModel)]="searchText"
+      (keyup.enter)="search()"
+    />
+    <button class="btn btn-info text-white" (click)="search()">Search</button>
+  </div>
+</div>
+
+<div *ngIf="loading" class="text-center">Loading...</div>
+<div *ngIf="error" class="alert alert-danger">{{ error }}</div>
+
+<div class="row g-4">
+  <div class="col-md-4" *ngFor="let movie of filteredMovies">
+    <app-movie-card [movie]="movie"></app-movie-card>
+  </div>
+</div>

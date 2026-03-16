@@ -1,0 +1,53 @@
+.movie-card {
+  background: #fff;
+  border-radius: 10px;
+  padding: 18px;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.08);
+  text-align: center;
+}
+
+.title {
+  font-weight: 700;
+  margin-bottom: 5px;
+}
+
+.theatre {
+  color: #6c757d;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.meta {
+  font-size: 14px;
+  margin: 8px 0;
+}
+
+.status {
+  font-size: 14px;
+  margin-bottom: 14px;
+}
+
+.ok {
+  color: #1a9b3b;
+  font-weight: 700;
+}
+
+.sold {
+  color: #d11a1a;
+  font-weight: 700;
+}
+
+.btn {
+  width: 120px;
+  padding: 8px 10px;
+  border: none;
+  border-radius: 6px;
+  background: #1aa3c8;
+  color: #fff;
+  cursor: pointer;
+}
+
+.soldbtn {
+  background: #8c8c8c;
+  cursor: not-allowed;
+}

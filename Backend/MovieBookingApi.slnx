@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MovieBookingApi.Tests/MovieBookingApi.Tests.csproj" Id="5fb743e4-bde2-45a2-9a28-bb9933bcbefe" />
+  <Project Path="MovieBookingApi/MovieBookingApi.csproj" />
+</Solution>

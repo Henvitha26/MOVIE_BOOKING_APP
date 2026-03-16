@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MovieBookingApi",
+    "\\MovieBookingApi\\Controllers",
+    "\\MovieBookingApi\\Data",
+    "\\MovieBookingApi\\DTOs",
+    "\\MovieBookingApi\\Models"
+  ],
+  "SelectedNode": "\\MovieBookingApi\\MovieBookingApi.csproj",
+  "PreviewInSolutionExplorer": false
+}

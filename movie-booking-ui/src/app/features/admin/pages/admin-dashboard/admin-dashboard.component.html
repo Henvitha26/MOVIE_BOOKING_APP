@@ -1,0 +1,100 @@
+<div class="container my-4">
+
+  <div class="text-center mb-3">
+    <h2 class="fw-bold">🎬 Admin Dashboard</h2>
+    <p class="text-muted">Manage movies, ticket availability & status</p>
+  </div>
+
+  <div *ngIf="error" class="alert alert-danger">{{ error }}</div>
+  <div *ngIf="success" class="alert alert-success">{{ success }}</div>
+
+  <!-- Add Movie -->
+  <div class="card shadow-sm p-3 mb-4">
+    <h5 class="text-center fw-bold mb-3">Add New Movie</h5>
+
+    <div class="row g-2">
+      <div class="col-md-4">
+        <input class="form-control" placeholder="Movie Name"
+               [(ngModel)]="newMovie.movieName" />
+      </div>
+      <div class="col-md-4">
+        <input class="form-control" placeholder="Theatre Name"
+               [(ngModel)]="newMovie.theatreName" />
+      </div>
+      <div class="col-md-4">
+        <input class="form-control" type="number"
+               placeholder="Total Tickets"
+               [(ngModel)]="newMovie.totalTickets" />
+      </div>
+    </div>
+
+    <button class="btn btn-info w-100 mt-3 fw-semibold" (click)="addMovie()">
+      Add Movie
+    </button>
+  </div>
+
+  <!-- Loader -->
+  <div *ngIf="loading" class="text-center my-4">
+    <div class="spinner-border"></div>
+  </div>
+
+  <!-- Movies -->
+  <div class="row g-3">
+    <div class="col-md-4" *ngFor="let m of movies">
+      <div class="card shadow-sm p-3 text-center h-100">
+
+        <h5 class="fw-bold">{{ m.movieName }}</h5>
+        <p class="text-muted mb-1">{{ m.theatreName }}</p>
+
+        <p class="mb-1">
+          🎟 Booked Tickets: <b>{{ m.bookedTickets }}</b>
+        </p>
+
+        <p class="mb-2">
+          Available: <b>{{ m.availableTickets }}</b> / {{ m.totalTickets }}
+        </p>
+
+        <p class="mb-3">
+          Status:
+          <span class="fw-bold"
+            [ngClass]="{
+              'text-success': m.status === 'AVAILABLE',
+              'text-warning': m.status === 'BOOK ASAP',
+              'text-danger': m.status === 'SOLD OUT'
+            }">
+            {{ m.status }}
+          </span>
+        </p>
+
+        <button class="btn btn-warning w-100 mb-2"
+                (click)="markBookAsap(m)">
+          Mark Book ASAP
+        </button>
+
+        <div class="d-flex gap-2">
+          <button class="btn btn-danger flex-fill"
+                  (click)="markSoldOut(m)">
+            Mark Sold Out
+          </button>
+
+          <button class="btn btn-secondary flex-fill"
+                  (click)="refreshAvailability(m)">
+            Refresh Availability
+          </button>
+        </div>
+
+        <button class="btn btn-outline-dark w-100 mt-2"
+                (click)="markAvailable(m)">
+          Mark Available
+        </button>
+
+        <button class="btn btn-outline-danger w-100 mt-2"
+                (click)="deleteMovie(m)">
+          Delete
+        </button>
+
+      </div>
+    </div>
+  </div>
+
+</div>

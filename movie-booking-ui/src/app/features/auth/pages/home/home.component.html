@@ -1,0 +1,27 @@
+<div class="page">
+  <!-- Page Title -->
+  <h2 class="heading">🎬 Now Showing</h2>
+
+  <!-- Search bar -->
+  <div class="search-row">
+    <input
+      [(ngModel)]="searchText"
+      class="search-box"
+      placeholder="Search movies..."
+    />
+    <button class="search-btn" (click)="search()">Search</button>
+  </div>
+
+  <!-- Error message -->
+  <div *ngIf="error" class="alert alert-danger mt-3">
+    {{ error }}
+  </div>
+
+  <!-- Movies grid -->
+  <div class="grid">
+    <app-movie-card
+      *ngFor="let m of filteredMovies"
+      [movie]="m">
+    </app-movie-card>
+  </div>
+</div>
